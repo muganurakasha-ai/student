@@ -1,4 +1,4 @@
-name = "Raja"
-usn = "123"
-print("my name is ", name)
-print("usn is ", usn)
+name = "raja"
+usn = "120"
+print(f"Name: {name}")
+print(f"USN: {usn}")
